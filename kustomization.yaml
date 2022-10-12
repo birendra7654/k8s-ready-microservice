@@ -1,0 +1,7 @@
+commonLabels:
+  app: k8s-ready-microservice
+resources:
+  - app-config.yaml
+  - deployment.yaml
+  - service.yaml
+  - ingress.yaml
